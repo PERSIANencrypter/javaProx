@@ -46,7 +46,7 @@ public class Listen {
 	/**
 	 * @return the port
 	 */
-	@XmlElement(defaultValue = "1080")
+	@XmlElement(defaultValue = "7569")
 	public int getPort() {
 		return this.port;
 	}
